@@ -5,3 +5,9 @@ public class Main {
         System.out.println("Hello world!");
     }
 }
+
+class Animal {
+    public void print() {
+        System.out.println("Привет из новой ветки!");
+    }
+}
